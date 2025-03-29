@@ -7,8 +7,6 @@ body {
     justify-content: center;
     align-items: center;
     background-color: hsl(0, 0%, 95%);
-    /* height: 100%; */
-
 }
 
 @media (min-height: 900px) {
